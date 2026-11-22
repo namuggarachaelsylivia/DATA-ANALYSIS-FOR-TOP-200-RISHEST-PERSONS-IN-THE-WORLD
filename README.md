@@ -12,7 +12,7 @@ Bernard Arnault & family, Elon Musk, Jeff Bezos, Mark Zuckerberg, Larry Ellison,
 ## TOP INDUSTRIES AND COUNT
 ### Technology	40, Finance & Investments	32, Fashion & Retail	30, Food & Beverage	15
 
-### The highest net worth noted was 233,000,000,000 billion From Benard and Arnault family from France aged 75 with rank 1 and the top youngest billionaire is Mark Zuckerberg aged 39 in the technology industry.
+### The top youngest billionaire is Mark Zuckerberg aged 39 in the technology industry.
 
 ### Conclusively I analyzed there are few younger billionaires currently and with this dataset it gives proper picture of how industries are contributing to net worth and these billionaires are spread across many different countries with technology contributing 40 people and this is evident with the ever-changing dynamics on recent innovations in AI data and big data analytics and we notice many successful inventions broadly embraced by Many companies across regions.
 
