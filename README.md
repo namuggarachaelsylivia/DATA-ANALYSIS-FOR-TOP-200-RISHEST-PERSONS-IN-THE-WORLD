@@ -6,10 +6,10 @@
 ## I have analyzed this data set under FADAqa internship and evaluated the top 200 richest persons with key insights in along these parameters of age, industry, rank, worth billions.
 
 ## DATA FINDINGS
-## TOP 10 BILLIONARIES IN THE WORLD IN ORDER OF RANK
+## TOP 10 BILLIONARIES IN THE WORLD.
 Bernard Arnault & family, Elon Musk, Jeff Bezos, Mark Zuckerberg, Larry Ellison, Warren Buffett, Bill Gates, Steve Ballmer, Mukesh Ambani, Larry Page 
 
-## TOP INDUSTRIES AND COUNT
+## TOP INDUSTRIES AND COUNT.
 ### Technology	40, Finance & Investments	32, Fashion & Retail	30, Food & Beverage	15
 
 ### The top youngest billionaire is Mark Zuckerberg aged 39 in the technology industry.
